@@ -1,0 +1,36 @@
+.main_form {
+
+    justify-content: center;
+
+
+}
+
+form input {
+    height: 50px;
+    width: 500px;
+    border-bottom: 1px solid gold;
+    padding-bottom: 5px;
+}
+
+form textarea {
+    border-bottom: 1px solid gray;
+}
+
+form textarea:hover {
+    border: 1px solid black;
+}
+
+form input:hover {
+    border: 1px solid black;
+}
+
+form .baton {
+    height: 50px;
+    width: 60px;
+    padding: 10px;
+    margin-left: 370px;
+    background-color: rgb(76, 124, 5);
+    border-radius: 5px;
+    color: white;
+
+}
