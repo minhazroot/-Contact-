@@ -45,11 +45,18 @@
     border: 1px solid blue;
 }
 
+/* .dater_times {
+    background-image: url("../img/icon/timetable.png");
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+} */
+
 
 
 /* section  style end  */
 .gredent_color {
-    height: 500px;
+    height: 580px;
     width: 100%;
     background: #FC5C7D;
     /* fallback for old browsers */
@@ -60,3 +67,15 @@
 
 
 }
+
+/* section 4 */
+.earth {
+    background-image: url("../img/icon/earth.png");
+    height: 400px;
+    width: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+/* section 6 */
+.our_team {}
